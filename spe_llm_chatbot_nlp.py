@@ -10,7 +10,7 @@ from llama_cpp import Llama  # CPU-based LLM inference (optional)
 
 # === CONFIG ===
 SPREADSHEET_NAME = "Podcast Transcripts"
-CREDENTIAL_FILE = "audiotranscriber-458907-e9a67bbde7b3.json"
+CREDENTIAL_FILE = "YOUR_CREDENTIAL_FILE.json"
 GGML_MODEL_PATH = "./models/ggml-model-q4.bin"  # optional
 
 # === Load Transcripts and Titles from Google Sheets ===
