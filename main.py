@@ -5,8 +5,8 @@ from spe_llm_chatbot_nlp import run_nlp_analysis, get_recommendation
 
 app = Flask(__name__)
 
-LINE_CHANNEL_ACCESS_TOKEN = "SPblETk9YnClR+cMu6sOI54OXCPZrbiEQAWVpkVdOnvt1rnMghgX0mlQFgc9IV5zaoVa9FZna6pQs45cciuyKnyrzXeLcBeRkNVuaW6+vWa8fSeCYqFAMebR2H7SnM4jKCtRmpYJcGXDY/V+RzwplQdB04t89/1O/w1cDnyilFU="
-LINE_CHANNEL_SECRET = "e3e2c5d3200f8df1ac79a788ed5a0886"
+LINE_CHANNEL_ACCESS_TOKEN = "PUT_YOUR_TOKEN_HERE"
+LINE_CHANNEL_SECRET = "YOUR_SECRET_HERE"
 
 cluster_keywords = run_nlp_analysis()
 
