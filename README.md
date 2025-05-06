@@ -35,8 +35,8 @@ SPE-LINE-Bot/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/SPE-LINE-Bot.git
-cd SPE-LINE-Bot
+git clone https://github.com/SuradechKKPB/SPE_PODCAST_LINE_CHATBOT.git
+cd SPE_PODCAST_LINE_CHATBOT
 ```
 
 ### 2. Set up Python environment
