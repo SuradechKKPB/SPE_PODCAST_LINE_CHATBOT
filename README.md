@@ -2,6 +2,9 @@
 
 This project is a LINE chatbot that recommends SPE (Society of Petroleum Engineers) podcast episodes based on user interests using NLP and clustering. It runs locally using Flask and responds to real-time messages from LINE.
 
+<img width="874" alt="Screenshot 2568-05-06 at 23 57 08" src="https://github.com/user-attachments/assets/67586942-9450-4c99-9038-42e8de2ec236" />
+
+
 ---
 
 ## 📌 Features
